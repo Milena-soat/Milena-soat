@@ -1,7 +1,8 @@
 # Oiee, meu nome é Milena. 
 - ✨ Cursando:Análise e Desenvolvimento de Sistemas
 - 🔭 Procurando vagas de estágio
--  
+- 💼 Buscando me desenvolver, na minha área. 
+
 
 ##
 
