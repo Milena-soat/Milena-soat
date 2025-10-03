@@ -1,6 +1,8 @@
 # Hello, World meu nome é Milena. 
 🎓 Formada em Análise e Desenvolvimento de Sistemas
+
 🔭 Em busca da minha primeira oportunidade na área de tecnologia
+
 💼 Focada em desenvolver minhas habilidades e crescer profissionalmente
 
 
