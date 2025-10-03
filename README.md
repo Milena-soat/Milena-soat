@@ -1,7 +1,7 @@
 # Hello, World meu nome é Milena. 
-- ✨ Cursando 5º período: Análise e Desenvolvimento de Sistemas
-- 🔭 Procurando vagas de estágio
-- 💼 Buscando me desenvolver, na minha área. 
+🎓 Formada em Análise e Desenvolvimento de Sistemas
+🔭 Em busca da minha primeira oportunidade na área de tecnologia
+💼 Focada em desenvolver minhas habilidades e crescer profissionalmente
 
 
 ##
