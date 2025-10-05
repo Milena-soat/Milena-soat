@@ -1,4 +1,7 @@
 # Hello, World meu nome é Milena. 
+<img src="https://github.com/Milena-soat/ima_ges/raw/main/generatedLofiGirl.png" alt="Minha foto" width="500"/>
+
+
 🎓 Formada em Análise e Desenvolvimento de Sistemas.
 
 🔭 Em busca da minha primeira oportunidade na área de tecnologia.
